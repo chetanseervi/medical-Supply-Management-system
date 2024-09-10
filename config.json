@@ -1,0 +1,16 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/medical",
+        "proud_uri": "mysql://root:@localhost/medical",
+        "fb_url": "https://www.facebook.com/amruth.kiran.564/",
+        "tw_url": "https://x.com/AmruthKiran5?t=etwBkkKSLeZB6lVurHFfMw&s=08/",
+        "gh_url": "https://github.com/chetanseervi",
+        "blog_name": "WELCOME",
+        "headname": "MEDICAL SUPPLY MANAGEMENT",
+        "user": "chetan",
+        "password": "chetan",
+        "login_image": "flogo.jpg"
+
+    }
+}
